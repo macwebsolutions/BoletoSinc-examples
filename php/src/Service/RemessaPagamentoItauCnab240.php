@@ -21,7 +21,7 @@
 
 namespace BoletoSinc\Service;
 
-use BoletoSinc\Request\RequestPayloadInterface.php
+use BoletoSinc\Request\RequestPayloadInterface;
 
 /**
  * Uma remessa
