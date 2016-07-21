@@ -1,0 +1,17 @@
+{
+    "name": "boletosinc/examples-php",
+    "description": "Examples of API BoletoSinc use",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "MacWeb Solutions",
+            "email": "webmaster@macweb.com.br"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "BoletoSinc\\": "src/"
+        }
+    }
+}
