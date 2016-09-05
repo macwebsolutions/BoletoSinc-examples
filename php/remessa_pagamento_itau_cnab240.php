@@ -123,7 +123,7 @@ $detalhes => array(
         'segmentos' => array(
             // Segmento A - (Obrigatório)
             array(
-                'codigo_segmento': 'a',
+                'codigo_segmento' => 'a',
                 'codigo_banco' => 341,
                 'codigo_lote' => 1,
                 'tipo_registro' => '',
